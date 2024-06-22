@@ -1,5 +1,5 @@
-# 💫 About Me:
-JUST A LAYMAN<br>READY TO EXPLORE <br>SJIT
+# About Me:
+JUST A LAYMAN<br>EXPLORING A LOT<br>SJIT
 
 
 ## 🌐 Socials:
