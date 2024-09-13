@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashwin S I</h1>
-<h3 align="center">CSE Student | Front-End Development | HTML | CSS | JavaScript | Python | C/C++ | Web Applications | Responsive Design | Continuous Learner | Seeking Internships</h3>
+<h3 align="center">CSE Student | Front-End Development | HTML | CSS | JavaScript | Python | C/C++ | Web Applications | Responsive Design | Continuous Learner </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
