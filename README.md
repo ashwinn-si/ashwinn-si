@@ -11,7 +11,7 @@
 <div align= "center">
   <br>
 
- <strong> **CSE Student | Front-End Developer** <strong>
+ <strong> **`Front-End Developer`** <strong>
   
 
 #
@@ -42,7 +42,7 @@ Programming Languages:
 <br><br>
  Web Technology: 
 <br><br>
-   <img alt="Web Development" src = "https://skillicons.dev/icons?i=html,css,js,node,react,express"/>
+   <img alt="Web Development" src = "https://skillicons.dev/icons?i=html,css,js,nodejs,react,express"/>
 <br><br>
  Databases: 
 <br><br>
@@ -59,9 +59,11 @@ Programming Languages:
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashwinn-si&show_icons=true&locale=en" alt="ashwinn-si" /></p>
+![](https://github-readme-stats.vercel.app/api?username=ashwinn-si&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ashwinn-si&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinn-si&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashwinn-si&" alt="ashwinn-si" /></p>
+[![](https://visitcount.itsvg.in/api?id=ashwinn-si&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
 
