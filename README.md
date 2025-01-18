@@ -67,9 +67,6 @@ Programming Languages:
 [![](https://visitcount.itsvg.in/api?id=ashwinn-si&icon=0&color=2)](https://visitcount.itsvg.in)
 
 </div>
-
-<br>
-<br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashwinn-si/ashwinn-si/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashwinn-si/ashwinn-si/output/github-snake.svg" />
