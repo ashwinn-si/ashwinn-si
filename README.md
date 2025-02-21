@@ -26,7 +26,7 @@
          <img alt="email" title="Entre em contato" src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/></a>
 	<a href="https://www.linkedin.com/in/ashwinsi/">
          <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-	<img src="https://komarev.com/ghpvc/?username=ashwinn-si&style=flat-square&color=blue" alt=""/>
+	
    </p>
 </div>
 
