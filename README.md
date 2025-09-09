@@ -11,7 +11,7 @@
 <div align= "center">
   <br>
 
- <strong> CSE Student | Front-End Developer <strong>
+ <strong> CSE Student | Back-End Developer <strong>
   
 
 #
