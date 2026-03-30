@@ -1,9 +1,3 @@
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jersey+15&size=31&pause=1000&color=2ECC71&center=true&vCenter=true&width=500&lines=Hi+Guys+!!;Building+Scalable+Backend+Systems+with+Java" alt="Typing SVG" /></a>
-</div>
-
----
-
 <div align= "center">
   <br>
 
@@ -34,7 +28,7 @@ Areas of knowledge in which I am specializing, mastering, and continually updati
 
 Programming Languages: 
 <br><br>
-   <img alt="Programming Languages" src = "https://skillicons.dev/icons?i=java,python"/>
+   <img alt="Programming Languages" src = "https://skillicons.dev/icons?i=java"/>
 <br><br>
 
  Backend Development: 
@@ -44,7 +38,7 @@ Programming Languages:
 
  Web Technology: 
 <br><br>
-   <img alt="Web Development" src = "https://skillicons.dev/icons?i=html,css,js"/>
+   <img alt="Web Development" src = "https://skillicons.dev/icons?i=html,css,js,react"/>
 <br><br>
 
  Databases: 
