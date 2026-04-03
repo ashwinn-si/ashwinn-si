@@ -33,7 +33,7 @@ Programming Languages:
 
  Backend Development: 
 <br><br>
-   <img alt="Backend" src = "https://skillicons.dev/icons?i=spring"/>
+   <img alt="Backend" src = "https://skillicons.dev/icons?i=spring,nodejs"/>
 <br><br>
 
  Web Technology: 
